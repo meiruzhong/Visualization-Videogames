@@ -1,0 +1,2 @@
+# Visualization-video-games
+With the strong demand of the gaming console industry, the whole industry has been growing in the past five years. The total global gaming console market has reached a value of 10.30 billion and it's expected to grow to 71.73 billion by 2027. It is worthwhile for us to analyze the sales of different types of video games and then try to summarize the factors of a successful video game. Based on the results, we will make a strategic plan for game-producing companies to produce new games to develop their markets.
